@@ -41,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#20b2aa"
 navbar-text-col: "#F5F5F5"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#FFFFCC"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#20b2aa"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Mariana Dominguez
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  email: "Maricoov@gmail.com"
+  facebook: Madinanachan
+  github: Madinanachan
   twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/mari-dominguez-0400b7129/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
